@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Joel
+🧑‍💻 Who am I?
 
-<!--
-**neocanario/neocanario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year DAM (Multiplatform Application Development) student based in Las Palmas de Gran Canaria.
+I previously completed a Vocational Degree in Microinformatics and Networks and worked as an intern at Anovo Ibérica (Madrid).
+I’m responsible, punctual, and always focused on delivering solid work.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm focusing on strengthening my foundations in:
+
+Java development
+
+Web technologies like HTML & CSS
+
+Basic JavaScript
+
+Python fundamentals
+
+My long-term goal is to specialize in cybersecurity once I finish DAM.
+
+🛠️ Tools & Technologies I Use
+
+Languages: Java, Python (basic), JavaScript (beginner)
+
+Web: HTML, CSS
+
+Software & Tools: Git, VS Code, IntelliJ IDEA
+
+Systems: Knowledge from Microinformatics & Networks (hardware, OS, troubleshooting)
+
+📬 How to Contact Me
+
+📧 Email: joel.sanchez.diaz2007@gmail.com
+
+📷 Instagram: @joelchdz24
+
+💼 LinkedIn: linkedin.com/in/joel-sanchez-762809349
+
+🌍 Location: Las Palmas de Gran Canar
