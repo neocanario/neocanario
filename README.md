@@ -56,7 +56,7 @@ I'm a punctual, committed, and detail-oriented developer in training, passionate
 If you'd like to collaborate or discuss a project, feel free to reach out:
 
 - 📧 **Email:** joel.sanchez.diaz2007@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/joel-sanchez-762809349  
+- 💼 **LinkedIn:** linkedin.com/in/joel-sanchez
 - 📷 **Instagram:** @joelchdz24  
 - 📍 **Location:** Las Palmas de Gran Canaria, Spain  
 
